@@ -1,0 +1,27 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== Virtual Environments =====
+venv/
+.venv/
+
+# ===== Environment variables (SECRETS) =====
+.env
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Python build / test =====
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
